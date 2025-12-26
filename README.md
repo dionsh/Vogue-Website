@@ -1,19 +1,19 @@
 # 💫 VOGUE THEME
 
 <img width="1900" height="917" alt="foto1" src="https://github.com/user-attachments/assets/12d287fb-e2dd-467b-8d9e-abe7374e5ebf" />
-<br><br>
+<hr>
 <img width="1900" height="918" alt="foto2" src="https://github.com/user-attachments/assets/67e5fe24-9207-48f5-bddc-6a5b611b639e" />
-<br><br>
+<hr>
 <img width="1896" height="922" alt="foto3" src="https://github.com/user-attachments/assets/af583c66-c051-413d-a10b-aaf80e4eb76b" />
-<br><br>
+<hr>
 <img width="1887" height="918" alt="foto4" src="https://github.com/user-attachments/assets/217e8e90-ca48-482b-99bc-c3c3269afcc9" />
-<br><br>
+<hr>
 <img width="1892" height="919" alt="foto5" src="https://github.com/user-attachments/assets/38690aa8-a56c-4528-a781-7ee3772bad0b" />
-<br><br>
+<hr>
 <img width="1891" height="920" alt="foto6" src="https://github.com/user-attachments/assets/e8629746-c3b3-443f-bfdb-17288f7b511a" />
-<br><br>
+<hr>
 <img width="1893" height="919" alt="foto7" src="https://github.com/user-attachments/assets/695475ce-67f0-460b-b9d8-745d048baa6f" />
-<br><br>
+<hr>
 
 
 A **modern, Vogue-inspired fashion platform** built using **WordPress, HTML, CSS, JavaScript, and PHP & MySQL**.  

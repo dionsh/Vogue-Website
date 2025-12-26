@@ -52,5 +52,5 @@ Reproduction, modification, or redistribution is not permitted without explicit 
 
 👑 AUTHOR
 
-Created by by Dion Sherifi. 
+Created by Dion Sherifi. 
 If you like this project, give it a ⭐ on GitHub and share your thoughts!

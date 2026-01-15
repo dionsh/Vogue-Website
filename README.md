@@ -1,4 +1,4 @@
-# VOGUE THEME
+#                  VOGUE THEME
 
 <img width="1900" height="917" alt="foto1" src="https://github.com/user-attachments/assets/12d287fb-e2dd-467b-8d9e-abe7374e5ebf" />
 <hr>
@@ -50,7 +50,7 @@ Reproduction, modification, or redistribution is not permitted without explicit 
 
 ---
 
-👑 AUTHOR
+   AUTHOR
 
 Created by Dion Sherifi. 
 If you like this project, give it a ⭐ on GitHub and share your thoughts!
